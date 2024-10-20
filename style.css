@@ -1,0 +1,42 @@
+Container {
+
+    padding: 20px 50px;
+
+
+}
+
+row {
+
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+#amount {
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+button {
+    justify-content: space-around;
+}
+
+btn {
+    width: auto;
+    border-radius: 1px;
+    background-color: #343a40;
+    color: white;
+    padding: 35rem .75rrem;
+    border: 1px soid tranparent;
+    padding: 375rem;
+    font-size: 1rem;
+    border-radius: 25rem;
+    cursor: pointer;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+
+}
